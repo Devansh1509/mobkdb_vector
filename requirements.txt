@@ -1,0 +1,3 @@
+monkdb
+pypdf2
+sentence-transformers
